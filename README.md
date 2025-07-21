@@ -56,7 +56,9 @@ PhisX is a Chrome extension designed to detect and block phishing URLs in real-t
 
 ## Check out this video
 
-[![Watch this video on YouTube](https://img.youtube.com/vi/CAlDwQ-C4pI/0.jpg)](https://youtu.be/CAlDwQ-C4pI?si=s-igmY8i9POim0QD)
+[![Watch this video on YouTube](https://img.youtube.com/vi/CAlDwQ-C4pI/0.jpg)](https://youtu.be/CAlDwQ-C4pI?si=s-igmY8i9POim0QD) 
+
+gmail: (vamshi0041@gmail.com)
 
 
 
